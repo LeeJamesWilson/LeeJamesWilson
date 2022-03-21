@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lee
 - 👀 I’m interested in applications programming
-- 🌱 I’m currently learning C, C++, C# and Python
+- 🌱 I’m currently working with C, Clipper/Harbour, and D
 - 💞️ I’m looking to collaborate on projects involving the above languages
 - 📫 How to reach me: leejamwil@gmail.com
 
